@@ -5,7 +5,7 @@ Este projeto implementa um servidor básico em Node.js que responde a requisiç�
 ## Funcionalidades
 
 - Servidor HTTP simples.
-- Responde a requisições com um "pong".
+- Responde a requisições com um "ping".
 - Fácil de personalizar e expandir.
 
 ## Requisitos
